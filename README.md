@@ -10,3 +10,7 @@
 > cd spotify-valid-check<br>
 > python spotvalid.py --path /path/ok.txt<br>
 
+# Output If There That Valid
+
+<img src="images/Screenshot_WhatsApp_20190429-211341_1.png" width="200" height="150">
+
